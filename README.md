@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohaniyer27
-- 👀 I’m interested in ...web development and data analytics
-- 🌱 I’m currently learning ...responsive web developement
+- 👀 I’m interested in ...Langchain and mobile development 
+- 🌱 I’m currently learning ...cross platform App development 
 - 💞️ I’m looking to collaborate on ...developement projects
 - 📫 How to reach me ...rohaniyer27@icloud.com
 
