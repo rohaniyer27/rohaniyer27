@@ -1,15 +1,31 @@
-- 👋 Hi, I’m @rohaniyer27
-- 👀 I’m interested in ...Langchain and web/mobile development 
-- 🌱 I’m currently learning ...cross platform App development 
-- 💞️ I’m looking to collaborate on ...developement projects
-- my codepen is https://codepen.io/Rohaniyer27
-- 📫 How to reach me ...rohaniyer27@icloud.com
+# Hi, I'm Rohan 👋
 
-<!---
-rohaniyer27/rohaniyer27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an MSc Advanced Computer Science graduate from the University of Strathclyde, with professional experience in energy-sector operations and analytics at OVO Energy in Glasgow.
 
+My interests sit at the intersection of **data science, electricity markets, machine learning and optimisation**. I enjoy working with real-world data, understanding how complex systems behave, and building models that support better decisions.
 
+### 🔬 What I'm working on
 
+- **HydroOpt:** Exploring deterministic and stochastic hydropower scheduling, CVaR risk modelling, nonlinear generation and decision-regret evaluation.
+- **Electricity Market Analytics:** Analysing Indian Energy Exchange day-ahead market data, price behaviour and supply–demand relationships.
+- **Energy Storage Optimisation:** Experimenting with rolling-horizon battery scheduling and the value of stored energy under limited future information.
 
+### 🛠️ Tools & Technologies
+
+**Languages:** Python, SQL, JavaScript, TypeScript  
+**Data & Analytics:** pandas, NumPy, SciPy, Tableau, Excel  
+**Modelling:** Linear programming, stochastic optimisation, regression and model evaluation  
+**Development:** React Native, Git, GitHub, Jupyter Notebook
+
+### 📚 Currently Exploring
+
+- Time-series forecasting and uncertainty quantification
+- Stochastic optimisation and decision-making under uncertainty
+- Julia/JuMP and hydropower scheduling methods
+- Applications of machine learning to energy systems
+
+### 📫 Connect
+
+- **Email:** [rohaniyer27@icloud.com](mailto:rohaniyer27@icloud.com)
+
+*Interested in building data-driven tools that connect modelling with practical decisions.*
